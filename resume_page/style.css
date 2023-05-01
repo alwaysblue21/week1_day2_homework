@@ -9,10 +9,13 @@ h3 {
 }
 
 body {
-    margin: 35px;
+    margin: 20px;
     text-align: center;
 }
 
 ul {
     display: inline-block;
+}
+table {
+    text-align: left;
 }
